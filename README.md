@@ -41,5 +41,3 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the GPL v3 License. See [LICENSE](LICENSE) for more information.
 
-[^1]: This plugin is not officially associated with Yoast SEO or any other third-party plugin unless otherwise specified.
-
